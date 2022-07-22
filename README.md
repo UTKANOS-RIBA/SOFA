@@ -3,6 +3,6 @@ Entertainment platform "SOFA" (sofa - in English a sofa, an ideal place for proc
 
 The following mini-games are implemented on the platform:
 
-Arkanoid
-Tetris
-flip cards
+- Arkanoid
+- Tetris
+- Flip cards
